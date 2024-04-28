@@ -1,6 +1,6 @@
 {
-  "name": "studentmangm_46_sdml_",
-  "version": "1.0.1",
+  "name": "cli_studentmangm_46_sdml_",
+  "version": "1.0.2",
   "description": "This is a cli based application",
   "main": "index.js",
   "type": "module",
